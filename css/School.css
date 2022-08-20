@@ -1,0 +1,13 @@
+.profile p {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+.even-row{
+    text-decoration: none;
+}
+li{
+    clear: right;
+}
+a{
+    color: #FFFFFF;
+}

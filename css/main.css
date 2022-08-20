@@ -1,0 +1,81 @@
+body {
+    background-image: url(../img/huffle.jpg);
+    font-family: "Segoe UI", Tahoma, sans-serif;
+}
+
+header {
+    background-color: #fce836c4;
+    color: #FFFAFF;
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid #FFFAFF;
+}
+
+
+footer {
+    background-color: #000000;
+    color: #FFFAFF;
+    font-size: 12px;
+    border: 3px solid #FFFAFF;
+    padding-left: 5px;
+}
+
+.profile {
+    background-color: #edc431d3;
+    text-align:center;
+}
+
+.even-row {
+    background-color: #000000
+}
+
+h2 {
+    color:#FFFAFF;
+    background-color:#000000;
+    text-align:center;
+    font-size: 30px;
+}
+ol {
+    background-color:#000000;
+    color: #FFFAFF;
+}
+
+
+.navbar {
+    background-color:#edc431c2;
+    border: solid;
+    color:#edc431c2;
+    font-size: 20px;
+}
+
+.navbar th {
+    border: solid;
+    color:#EDC531;
+    padding: 5px;
+}
+
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:#eeff00;
+    color:darkolivegreen;
+    padding: 5px;
+    box-shadow: 5px 5px 10px #FFFF;
+}
+
+.dropdown:hover .dropdown-content {
+    display:block;
+}
+
+.active{
+    background-color: #FCE762;
+}
+
+a{
+    color:#000000;
+    text-decoration: none;
+}
